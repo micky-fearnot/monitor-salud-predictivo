@@ -133,6 +133,7 @@ provincial_ranking = d3.rollups(
 // 2. Gráfico de Barras Horizontales
 Plot.plot({
   marginLeft: 150,
+  marginRight: 100,
   height: 750, // <--- AUMENTAMOS ESTO SIGNIFICATIVAMENTE
   marginTop: 30, // Agregamos un poco de aire arriba de las barras
   marks: [
