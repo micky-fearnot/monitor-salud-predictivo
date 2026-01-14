@@ -1,4 +1,5 @@
 # 🏥 Monitor Federal de Salud: Predicción de Demanda con IA
+### Autor: [Miguel Albornoz](https://github.com/micky-fearnot)
 
 > **Sistema de inteligencia epidemiológica para la optimización de recursos sanitarios en Argentina.**
 
@@ -42,13 +43,25 @@ El proyecto implementa una arquitectura moderna de Data Science:
 │   └── 02_forecast.R    # Generación masiva de modelos Prophet
 ├── dashboard.qmd        # Código fuente del Dashboard Interactivo
 └── _quarto.yml          # Configuración de publicación
+```
+---
+## 📊 Vistas previas de los dashboards
+
+**Dashboard 1: Tablero de Comando**
+![Dashboard 1 Tablero de Comando](https://github.com/micky-fearnot/monitor-salud-predictivo/blob/main/images/imagen-tablero-comando.png)
+
+**Dashboard 2: Análisis Comparativo**
+![Dashboard 2 Análisis Comparativo](https://github.com/micky-fearnot/monitor-salud-predictivo/blob/main/images/imagen-analisis-comparativo.png)
+
+---
 
 ### 🚀 Cómo reproducir este análisis
 
 1. Clonar el repositorio:
 
-Bash
+```bash
 git clone [https://github.com/TU_USUARIO/monitor-salud-arg.git](https://github.com/TU_USUARIO/monitor-salud-arg.git)
+```
 2. Restaurar librerías: Abrir monitor-salud-arg.Rproj en RStudio e instalar dependencias: tidyverse, prophet, quarto.
 
 3. Ejecutar Pipeline: Correr los scripts en orden numérico (01 -> 02).
