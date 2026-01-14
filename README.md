@@ -63,7 +63,7 @@ El proyecto implementa una arquitectura moderna de Data Science:
 1. Clonar el repositorio:
 
 ```bash
-git clone [https://github.com/TU_USUARIO/monitor-salud-arg.git](https://github.com/TU_USUARIO/monitor-salud-arg.git)
+git clone [https://github.com/micky-fearnot/monitor-salud-predictivo.git](https://github.com/micky-fearnot/monitor-salud-predictivo.git)
 ```
 2. Restaurar librerías: Abrir monitor-salud-arg.Rproj en RStudio e instalar dependencias: tidyverse, prophet, quarto.
 
