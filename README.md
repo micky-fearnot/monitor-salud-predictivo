@@ -6,6 +6,8 @@
 [![Status](https://img.shields.io/badge/Status-Active-success)]()
 [![Tech](https://img.shields.io/badge/Stack-R%20%7C%20Prophet%20%7C%20Quarto-blue)]()
 
+> **🔗 [Ver Dashboard Interactivo en Vivo](https://micky-fearnot.github.io/monitor-salud-predictivo/dashboard.html)**
+
 ### 🎯 Resumen Ejecutivo
 Este proyecto aborda la problemática de la **saturación estacional** en hospitales públicos. Utilizando datos abiertos del Ministerio de Salud, desarrollé un pipeline de Machine Learning capaz de predecir picos de **Bronquiolitis, Influenza y Neumonía** con 52 semanas de antelación.
 
@@ -28,7 +30,7 @@ El proyecto implementa una arquitectura moderna de Data Science:
 * **Visualización & Despliegue:**
     * **Framework:** **Quarto** (Next-gen RMarkdown).
     * **Interactividad:** **Observable JS (OJS)** para filtrado de datos client-side (sin servidor).
-    * **Deploy:** GitHub Pages (Serverless architecture).
+    * **Deploy:** [GitHub Pages (Serverless architecture)](https://micky-fearnot.github.io/monitor-salud-predictivo/dashboard.html)
 
 ---
 
