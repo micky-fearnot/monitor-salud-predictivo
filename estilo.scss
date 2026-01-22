@@ -1,9 +1,9 @@
 /*-- scss:defaults --*/
 
-// Colores Institucionales
+// Colores Principales
 $navbar-bg: #1A3243;    // El azul oscuro de LinkedIn/Búsquedas
 $navbar-fg: #ffffff;    // Texto de la barra en blanco para contraste
-$primary: #FFD500;      // El amarillo de los botones de "Más información"
+$primary: #FFD500;      // Amarillo
 $body-bg: #f8f9fa;      // Un gris muy claro de fondo para que resalte el azul
 
 /*-- scss:rules --*/
@@ -23,7 +23,7 @@ $body-bg: #f8f9fa;      // Un gris muy claro de fondo para que resalte el azul
   color: rgba(255, 255, 255, 0.8) !important;
 }
 
-// 3. Estilo para los botones (como los de la imagen de "Más información")
+// 3. Estilo para los botones
 .btn-primary {
   background-color: #FFD500 !important;
   border-color: #FFD500 !important;
