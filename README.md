@@ -12,7 +12,7 @@ Este proyecto aborda la problemática de la **saturación estacional** en hospit
 
 El objetivo es permitir a la gestión sanitaria pasar de un modelo reactivo a uno **prospectivo**, planificando la contratación de personal y stock de insumos antes de que llegue el invierno.
 
-> **🔗 [Ver Dashboard Interactivo en Vivo](https://micky-fearnot.github.io/monitor-salud-predictivo/dashboard.html)**
+> **🔗 [Ver Dashboard Interactivo en Vivo](https://micky-albornoz.github.io/monitor-salud-predictivo/dashboard.html)**
 
 ---
 
@@ -63,7 +63,7 @@ El proyecto implementa una arquitectura moderna de Data Science:
 1. Clonar el repositorio:
 
 ```bash
-git clone [https://github.com/micky-fearnot/monitor-salud-predictivo.git](https://github.com/micky-fearnot/monitor-salud-predictivo.git)
+git clone [https://github.com/micky-albornoz/monitor-salud-predictivo.git](https://github.com/micky-albornoz/monitor-salud-predictivo.git)
 ```
 2. Restaurar librerías: Abrir monitor-salud-arg.Rproj en RStudio e instalar dependencias: tidyverse, prophet, quarto.
 
